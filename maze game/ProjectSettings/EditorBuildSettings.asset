@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/lv1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lv2.unity
+    guid: cc0866cda50e040a981a72a7a14de48a
+  - enabled: 1
+    path: Assets/Scenes/jumpScare.unity
+    guid: 714c5a79a25d9483baa66a23d0adfb35
   m_configObjects: {}
