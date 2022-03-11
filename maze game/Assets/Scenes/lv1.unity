@@ -514,6 +514,7 @@ GameObject:
   - component: {fileID: 967857764}
   - component: {fileID: 967857763}
   - component: {fileID: 967857762}
+  - component: {fileID: 967857765}
   m_Layer: 0
   m_Name: Square (3)
   m_TagString: Untagged
@@ -612,6 +613,25 @@ Transform:
   m_Father: {fileID: 1746312524}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &967857765
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 967857761}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f31efce7da8684254a9b5adafca26072, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1009615374
 GameObject:
   m_ObjectHideFlags: 0
@@ -732,6 +752,7 @@ GameObject:
   - component: {fileID: 1560934834}
   - component: {fileID: 1560934833}
   - component: {fileID: 1560934832}
+  - component: {fileID: 1560934835}
   m_Layer: 0
   m_Name: Square (4)
   m_TagString: Untagged
@@ -830,6 +851,25 @@ Transform:
   m_Father: {fileID: 1746312524}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1560934835
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1560934831}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 509b55ec95fd344c2b4052c86801b88a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1746312523
 GameObject:
   m_ObjectHideFlags: 0
@@ -876,6 +916,7 @@ GameObject:
   - component: {fileID: 1829416690}
   - component: {fileID: 1829416689}
   - component: {fileID: 1829416688}
+  - component: {fileID: 1829416691}
   m_Layer: 0
   m_Name: Square (2)
   m_TagString: Untagged
@@ -974,3 +1015,22 @@ Transform:
   m_Father: {fileID: 1746312524}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1829416691
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829416687}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3cc37d611fde44b63a422b8837052ae5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
